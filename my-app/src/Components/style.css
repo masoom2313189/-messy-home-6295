@@ -1,0 +1,345 @@
+/* Top Starting */
+.Top{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    background-color: #f3f3f3;
+    text-align: center;
+    align-items: center;
+    padding: .5rem 4rem .5rem 4rem;
+    cursor: pointer;
+}
+
+.Top img{
+    width: 7rem;
+}
+
+/* Top Ending */
+
+/* logo Starting */
+.logo{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+}
+
+.logo img{
+    width: 15rem;
+}
+
+.logo input{
+    border: none;
+    border-bottom: 1px solid gray;
+    padding: 0 0 5px 10px;
+    outline: none;
+}
+
+.logo>div:last-child{
+    display: flex;
+    gap: 1.5rem;
+}
+
+.logo>div:last-child a {
+    text-decoration: none;
+    color: black;
+}
+
+/* logo Ending */
+
+/* Main Navbar Starting */
+#main-navbar{
+    width: 90%;
+    display: flex;
+    margin: auto;
+    position: sticky;
+    top: 0;
+}
+#main-navbar >div{
+    width: 100%;
+    display: flex;
+}
+    .wrapper .nav-links{
+        display: inline-flex;
+    }
+    .nav-links li a {
+        text-decoration: none;
+        font-size: 14px;
+        font-weight: bold;
+        color: gray;
+       margin-right: 95px;
+    }
+    
+    .nav-links li{
+        list-style: none;
+    }
+    .nav-links li a:hover{
+        text-decoration: underline;
+    }
+    .nav-links .drop-menu{
+        top: 40px;
+        background-color: white;
+        box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+        position: absolute;
+        opacity: 0;
+        visibility: hidden;
+    }
+    .nav-links li:hover .drop-menu{
+        opacity: 1;
+        visibility: visible;
+    }
+    .drop-menu li a {
+        width: 100%;
+        display: block;
+        padding: 10px;
+    }
+    
+    #link-button a{
+        font-size: 14px;
+        font-weight: bold;
+        padding: 10px 15px;
+        text-decoration: none;
+        border-radius: 5px;
+    }
+    #link-button a:first-child{
+        background-color:#00419b;
+        color: white;
+    }
+    #link-button a:first-child:hover{
+        text-decoration: underline;
+    }
+    #link-button a:nth-child(2){
+    background-color: orange;
+    color: black;
+    }
+    
+    #link-button a:nth-child(2):hover,
+    #link-button a:last-child:hover{
+        background-color: #00419b;
+        color: white;
+    }
+    
+    #link-button a:last-child{
+        background-color: white;
+        border: 1px solid #00419b;
+        color: #00419b;
+    }
+
+/* Main Navbar Ending */
+
+/* Slider Starting */
+.Slider{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+
+}
+.Swiper_slider img{
+width: 85rem;
+}
+/* Slider Ending */
+/* Brand Page Starting */
+.Product,
+.Landed,
+.BrandBlock,
+.Autumn,
+.BrandPage{
+    width: 90%;
+    margin: auto;
+    margin-top: 3rem;
+}
+.BrandPage>div:first-child{
+display: flex;
+justify-content: space-between;
+gap: 1rem;
+margin-bottom: 3rem;
+}
+
+.BrandPage>div:first-child button{
+    width: 20rem;
+    background-color: black;
+    color: white;
+    padding: 1rem 1rem;
+    font-size: 1rem;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+/* Autumn Starting */
+/* BrandBlock Starting */
+.Product>a img,
+.Landed> a img,
+.BrandBlock>a img,
+.Autumn>a img,
+.BrandPage>div:nth-child(2) img:first-child{
+    width: 80rem;
+}
+.BrandPage>div:nth-child(2) img:last-child{
+    width: 75.5rem;
+}
+.BrandBlock-img2,
+.Autumn>div,
+.BrandPage>div:last-child{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+    text-align: center;
+}
+.BrandBlock>div:last-child img,
+.BrandBlock-img2 img,
+.Autumn>div img,
+.BrandPage>div:last-child img{
+    width: 24rem;
+}
+/* Brand Page Ending */
+
+/* Landed Starting */
+
+.Landed_Child{
+    display: flex;
+}
+.Landed_Swiper{
+    width: 50%;
+}
+.Landed_Slider>img{
+    width: 10rem;
+}
+.Landed_Slider{
+    text-align: center;
+    align-items: center;
+}
+.Landed_Slider>h5,
+.Landed_Slider>p,
+.Landed_Slider>h4+h4{
+    margin-top: -15px;
+}
+.Landed_Slider>h5+p{
+    font-size: 11px;
+}
+.Landed_Slider img+h4{
+    color: red;
+}
+/* Landed Ending */
+
+/* Product Starting */
+
+
+/* Product Ending */
+/* Autumn Ending */
+
+.BrandBlock-img1{
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+}
+.BrandBlock-img1 img{
+    width: 11rem;
+}
+
+.BrandBlock>div:last-child{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+}
+
+.BrandBlock>div:last-child a+p{
+font-size: 20px;
+font-weight: bold;
+margin-bottom: -10px;
+}
+/* BrandBlock Ending */
+
+/* Back Starting */
+.Back{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.Back>div{
+    background-color: #f3f3f3;
+    padding: 2rem 4rem .5rem 4rem;
+}
+.Back>button{
+    padding: 1.2rem 2rem;
+    background-color:#abc72c;
+    border: none;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.Back>div input{
+    width: 20rem;
+    padding: 15px;
+    font-size: 18px;
+    outline: none;
+    border: none;
+}
+.Back>div button{
+    padding: 15px 30px;
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+/* Back Ending */
+/* Bottom Starting */
+.Bottom{
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    color: gray;
+    margin-top: 2rem;
+}
+.Bottom p{
+    font-size: 12px;
+}
+.Bottom h3{
+    font-weight: lighter;
+}
+/* Bottom Ending */
+
+/* Footer Starting */
+.Footer_flex{
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    align-items: center;
+    line-height: 2rem;
+}
+
+.Footer{
+    text-align: center;
+    align-items: center;
+}
+.Footer>div:nth-child(2) a:hover,
+.Footer_flex a:hover,
+.Footer h4:hover{
+    color:#f3428e;
+    cursor: pointer;
+}
+.Footer_flex a{
+    margin-left: 5px;
+}
+.Footer>div:first-child{
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+.Footer>div:nth-child(2){
+    width: 15%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    font-size: 25px;
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+}
+/* Footer Ending */

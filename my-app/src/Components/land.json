@@ -1,0 +1,166 @@
+[
+        {
+            "id":1,
+            "title": "OLAPLEX",
+            "img1" : "https://cdn02.nnnow.com/web-images/thumbnail/styles/0SY7OCB8YQD/1662448603131/1.jpg",
+            "img2" : "https://cdn10.nnnow.com/web-images/thumbnail/styles/0SY7OCB8YQD/1662448603123/2.jpg",
+            "img3" : "https://cdn19.nnnow.com/web-images/thumbnail/styles/0SY7OCB8YQD/1662448603127/3.jpg",
+            "heading" : "OFFER",
+            "desc" : "N°6 Bond Smoother",
+            "price" : 2950,
+            "offer" : "BUY ANY 3 OLAPLEX PRODUCTS AND GET A FULL SIZE HAIR PERFECTOR WORTH RS 2900 FREE"
+        },
+        {
+            "id":2,
+            "title": "BURBERRY",
+            "img1" : "https://cdn11.nnnow.com/web-images/thumbnail/styles/VDLYY2JHV2V/1662106601741/1.jpg",
+            "img2" : "https://cdn16.nnnow.com/web-images/thumbnail/styles/VDLYY2JHV2V/1662106601734/2.jpg",
+            "img3" : "https://cdn07.nnnow.com/web-images/thumbnail/styles/VDLYY2JHV2V/1662106601738/3.jpg",
+            "heading" : "NEW",
+            "desc" : "Burberry Hero Eau De Parfum",
+            "price" : 5600
+        },
+        {
+            "id":3,
+            "title": "BENEFIT COSMETICS",
+            "img1" : "https://cdn09.nnnow.com/web-images/thumbnail/styles/VJ76C6HN94D/1660799857323/1.jpg",
+            "img2" : "https://cdn14.nnnow.com/web-images/thumbnail/styles/VJ76C6HN94D/1660799857318/2.jpg",
+            "img3" : "https://cdn06.nnnow.com/web-images/thumbnail/styles/VJ76C6HN94D/1660799857320/3.jpg",
+            "heading" : "OFFER",
+            "desc" : "More For Pores Primer",
+            "price" : 5600,
+            "offer" : "ON PURCHASE OF 4500 GET FREE GULABO BY ABU SANDEEP VANITY BAG EXCLUSIVELY DESIGNED FOR SEPHORA"
+        },
+        {
+            "id":4,
+            "title": "FOREST ESSENTIALS",
+            "img1" : "https://cdn04.nnnow.com/web-images/thumbnail/styles/81TDUB5710W/1660795165594/1.jpg",
+            "img2" : "https://cdn18.nnnow.com/web-images/thumbnail/styles/81TDUB5710W/1660795165591/2.jpg",
+            "img3" : "https://cdn04.nnnow.com/web-images/thumbnail/styles/81TDUB5710W/1660795165592/3.jpg",
+            "heading" : "OFFER",
+            "desc" : "Som Rasa Silk Skin Tint - Genhu",
+            "price" : 2750,
+            "offer" : "RECEIVE A HAIR MASK WORTH RS. 975 ON ALL PURCHASES ABOVE 4999"
+        },
+        {
+            "id":5,
+            "title": "ANASTASIA BEVERLY HILLS",
+            "img1" : "https://cdn19.nnnow.com/web-images/thumbnail/styles/I82MHX2YGVK/1660647139537/1.jpg",
+            "img2" : "https://cdn13.nnnow.com/web-images/thumbnail/styles/I82MHX2YGVK/1660644963126/3.jpg",
+            "img3" : "https://cdn04.nnnow.com/web-images/thumbnail/styles/I82MHX2YGVK/1660644963119/4.jpg",
+            "heading" : "OFFER",
+            "desc" : "Nouveau Eyeshadow Palette",
+            "price" : 5700,
+            "offer" : "BUY 1 GET 1 SAMPLES FREE"
+        },
+        {
+            "id":6,
+            "title": "HUDA BEAUTY",
+            "img1" : "https://cdn19.nnnow.com/web-images/thumbnail/styles/QWZD0T5MZQ8/1657865337852/1.jpg",
+            "img2" : "https://cdn16.nnnow.com/web-images/thumbnail/styles/QWZD0T5MZQ8/1657865337841/2.jpg",
+            "img3" : "https://cdn05.nnnow.com/web-images/thumbnail/styles/QWZD0T5MZQ8/1657865337847/3.jpg",
+            "heading" : "OFFER",
+            "desc" : "Wild Obsessions Eyeshadow Palette - Chameleon",
+            "price" : 2400,
+            "offer" : "BUY 1 GET 1 SAMPLES FREE"
+        },
+        {
+            "id":7,
+            "title": "ANASTASIA BEVERLY HILLS",
+            "img1" : "https://cdn01.nnnow.com/web-images/thumbnail/styles/U2363BU2FVE/1657702437204/1.jpg",
+            "img2" : "https://cdn18.nnnow.com/web-images/thumbnail/styles/U2363BU2FVE/1657702437196/2.jpg",
+            "img3" : "https://cdn10.nnnow.com/web-images/thumbnail/styles/U2363BU2FVE/1657702437199/3.jpg",
+            "heading" : "OFFER",
+            "desc" : "Wild Obsessions Eyeshadow Palette - Chameleon",
+            "price" : 3600,
+            "offer" : "BUY 1 GET 1 SAMPLES FREE"
+        },
+        {
+            "id":8,
+            "title": "HUDA BEAUTY",
+            "img1" : "https://cdn04.nnnow.com/web-images/thumbnail/styles/G1IEBAOC0JO/1657865337810/1.jpg",
+            "img2" : "https://cdn14.nnnow.com/web-images/thumbnail/styles/G1IEBAOC0JO/1657865337796/2.jpg",
+            "img3" : "https://cdn13.nnnow.com/web-images/thumbnail/styles/G1IEBAOC0JO/1657865337802/3.jpg",
+            "heading" : "OFFER",
+            "desc" : "Wild Obsessions Eyeshadow Palette - Python",
+            "price" : 2400,
+            "offer" : "BUY 1 GET 1 SAMPLES FREE"
+        },
+        {
+            "id":9,
+            "title": "FOREST ESSENTIALS",
+            "img1" : "https://cdn15.nnnow.com/web-images/thumbnail/styles/XIOMKF5O6U6/1660795165626/1.jpg",
+            "img2" : "https://cdn00.nnnow.com/web-images/thumbnail/styles/XIOMKF5O6U6/1660795165624/2.jpg",
+            "img3" : "",
+            "heading" : "OFFER",
+            "desc" : "Gulaabi Noor Nikhaar Cheek Tint",
+            "price" : 1350,
+            "offer" : "BUY 1 GET 1 SAMPLES FREE"
+        },
+        {
+            "id":10,
+            "title": "FOREST ESSENTIALS",
+            "img1" : "https://cdn09.nnnow.com/web-images/thumbnail/styles/G52010XWEVU/1660795165588/1.jpg",
+            "img2" : "https://cdn05.nnnow.com/web-images/thumbnail/styles/G52010XWEVU/1660795165585/2.jpg",
+            "img3" : "https://cdn07.nnnow.com/web-images/thumbnail/styles/G52010XWEVU/1660795165586/3.jpg",
+            "heading" : "OFFER",
+            "desc" : "Som Rasa Silk Skin Tint - Chandan",
+            "price" : 2750,
+            "offer" : "BUY 1 GET 1 SAMPLES FREE"
+        },
+        {
+            "id":11,
+            "title": "FOREST ESSENTIALS",
+            "img1" : "https://cdn14.nnnow.com/web-images/thumbnail/styles/9QCR3DG0AHN/1660795165606/1.jpg",
+            "img2" : "https://cdn15.nnnow.com/web-images/thumbnail/styles/9QCR3DG0AHN/1660795165604/2.jpg",
+            "img3" : "",
+            "heading" : "OFFER",
+            "desc" : "Tinted Lip Serum Madhu Rasa - Jamun",
+            "price" : 1295,
+            "offer" : "BUY 1 GET 1 SAMPLES FREE"
+        },
+        {
+            "id":12,
+            "title": "ANASTASIA BEVERLY HILLS",
+            "img1" : "https://cdn06.nnnow.com/web-images/thumbnail/styles/VJI6A709ACY/1657689632837/1.jpg",
+            "img2" : "https://cdn08.nnnow.com/web-images/thumbnail/styles/VJI6A709ACY/1657689632827/2.jpg",
+            "img3" : "https://cdn19.nnnow.com/web-images/thumbnail/styles/VJI6A709ACY/1657689632832/3.jpg",
+            "heading" : "OFFER",
+            "desc" : "Stick Highlighter",
+            "price" : 3600,
+            "offer" : "BUY 1 GET 1 SAMPLES FREE"
+        },
+        {
+            "id":13,
+            "title": "BENEFIT COSMETICS",
+            "img1" : "https://cdn16.nnnow.com/web-images/thumbnail/styles/5JH75A6KQTR/1660799857327/1.jpg",
+            "img2" : "",
+            "img3" : "",
+            "heading" : "OFFER",
+            "desc" : "Multitasking Cheek Brush",
+            "price" : 3230,
+            "offer" : "BUY 1 GET 1 SAMPLES FREE"
+        },
+        {
+            "id":14,
+            "title": "BENEFIT COSMETICS",
+            "img1" : "https://cdn15.nnnow.com/web-images/thumbnail/styles/RNZZNSJGF3Q/1660799857337/1.jpg",
+            "img2" : "https://cdn07.nnnow.com/web-images/thumbnail/styles/RNZZNSJGF3Q/1660799857332/2.jpg",
+            "img3" : "https://cdn06.nnnow.com/web-images/thumbnail/styles/RNZZNSJGF3Q/1660799857334/3.jpg",
+            "heading" : "OFFER",
+            "desc" : "Curls Trip Mascara Set",
+            "price" : 2630,
+            "offer" : "BUY 1 GET 1 SAMPLES FREE"
+        },
+        {
+            "id":15,
+            "title": "ANASTASIA BEVERLY HILLS",
+            "img1" : "https://cdn18.nnnow.com/web-images/thumbnail/styles/GPFHJU5QILN/1657689632806/1.jpg",
+            "img2" : "https://cdn13.nnnow.com/web-images/thumbnail/styles/GPFHJU5QILN/1657689632796/2.jpg",
+            "img3" : "https://cdn11.nnnow.com/web-images/thumbnail/styles/GPFHJU5QILN/1657689632801/3.jpg",
+            "heading" : "OFFER",
+            "desc" : "Brush 14 - Dual Ended Firm Detail Brush",
+            "price" : 2000,
+            "offer" : "BUY 1 GET 1 SAMPLES FREE"
+        }
+]
